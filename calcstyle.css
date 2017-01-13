@@ -1,0 +1,74 @@
+
+.mybutton {
+    /*background-color: gray;
+    color: white;
+    /*padding: 7px 28px;*/
+    height: 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 9px;
+    width: 23%;
+    margin: auto;
+    border: 1px inset black;
+}
+
+
+.zerobutton{
+	background-color: gray;
+    border: none;
+    color: white;
+    /*padding: 7px 28px;*/
+    height: 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 9px;
+    width: 40%;
+    margin: auto;
+}
+
+.buttondiv{
+	width: 100%;
+    height: 5%;
+    margin: auto;
+    vertical-align: middle;
+    padding: 0px 10px 0px 10px;
+}
+
+.defaultdiv{
+	/*background-color: #565656;
+	width: 300px;
+	height: 400px;
+	margin: auto;*/
+	background-color:#3d4543;
+height:300px;
+width:250px;
+border-radius:10px;
+position:relative;
+top:80px;
+left:40%;
+}
+.boxed {
+	/*background-color: green;
+	height: 20%;
+	width: 70%;
+	padding: 10px 10px 10px 10px;
+	margin: auto;
+	border-radius: 12px;
+	vertical-align: middle;*/
+	position:relative;
+left:2px;
+top:2px;
+height:35px;
+color:black;
+background-color:#bccd95;
+font-size:12px;
+text-align:right;
+vertical-text-align: center;
+width:220px;
+left:15px;
+top:20px;
+}
